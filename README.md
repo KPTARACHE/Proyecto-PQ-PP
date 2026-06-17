@@ -127,11 +127,14 @@ Se detectaron productos sin precio y sin descuento, lo cual afecta la calidad de
 
 ## Recomendaciones
 
-Para obtener un análisis completo y mejorar la toma de decisiones, se deben crear las siguientes medidas.
-- Visualizar ventas YTD.
-- Variación vs mes anterior.
-- Ticket medio.
-- Margen bruto
+- Reforzar campañas en productos y categorias lideres para incrementar ventas.
+- Realizar un estudio a fondo del menor rendimiento de México (Promociones, disponibilidad de productos).
+- Enlazar productos lideres con los de menor rotación.
+- Para obtener un análisis completo y mejorar la toma de decisiones, se deben crear las siguientes medidas.
+  - Visualizar ventas YTD.
+  - Variación vs mes anterior.
+  - Ticket medio.
+  - Margen bruto.
 
 
 
