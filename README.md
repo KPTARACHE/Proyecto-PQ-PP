@@ -1,8 +1,8 @@
-# Proyecto Análisis de ventas con Power Quey y Power Pivot
+# Proyecto Análisis de ventas con Power Query y Power Pivot
 
 ## Descripción del problema
 
-La empresa necesita un analisis de las ventas del año, pero las bases de datos en excel tiene distintos formatos lo que impide visualizar datos de calidad.
+La empresa necesita un análisis de las ventas del año, pero las bases de datos en excel tiene distintos formatos lo que impide visualizar datos de calidad.
 
 El objetivo del proyecto es limpiar y transformar los datos en Power Query y crear un modelo en Power Pivot que nos permita:
 
@@ -59,10 +59,10 @@ Etapas
 
 **Rendimiento por país**
 
-- EL país con mayo venta es Chile con MM$14.
+- El país con mayo venta es Chile con MM$14.
 - El país con menor venta es México con MM$10.
 
-**Categorías mas vendida**
+**Categorías más vendidas**
 
 - La categoria más vendida es Lácteos, sin embargo no hay diferencia significativa con el resto.
 
@@ -101,11 +101,11 @@ Se identificó disminución de venta en el mes de febrero y en México, sin emba
 
 ***Top 10 productos***
 
-<img width="1231" height="914" alt="Top productos" src="https://github.com/user-attachments/assets/359115a4-47b8-4822-b06f-18bd43c0dc45" />
+<img width="385" height="264" alt="Top productos" src="https://github.com/user-attachments/assets/359115a4-47b8-4822-b06f-18bd43c0dc45" />
 
 ***Demanda por canal***
 
-<img width="976" height="698" alt="Por Canal" src="https://github.com/user-attachments/assets/8d436c32-f41a-472a-af6d-5a212d82286b" />
+<img width="385" height="264" alt="Por Canal" src="https://github.com/user-attachments/assets/8d436c32-f41a-472a-af6d-5a212d82286b" />
 
 ***Venta por Categoría***
 
